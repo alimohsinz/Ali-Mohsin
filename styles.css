@@ -1,0 +1,42 @@
+
+
+ 
+
+ .content {
+     color: white;
+     padding-top: 100px;
+     min-height: 250px;
+     text-align: center;
+     
+ }
+ .discription{
+     width: 90%;
+     max-width: 960px;
+     margin: 0 auto;
+ }
+
+h1{
+        font-size: 36px;
+        line-height: 46px;
+        color: #e0e0e0;
+}
+
+
+.article{
+    background-color:transparent;
+    border: 1px solid white;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.article h1{
+    color: black;
+    margin-left: 250px;
+    padding-top: 40px;
+}
+
+.article p{
+    margin: 20px 0px;
+    padding: 0px 250px;
+    font-size: 1.3em;
+}
